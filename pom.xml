@@ -11,6 +11,7 @@
   	<module>gt-database-war</module>
   </modules> 
   <build>
+ <finalName>gt-database-war</finalName>	  
   	<pluginManagement>
   		<plugins>
   			<plugin>
